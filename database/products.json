@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "name": "Half Sleeve Shirt",
+      "price": 300,
+      "image": "https://5.imimg.com/data5/EI/WY/MY-46836644/mens-half-sleeve-shirt-500x500.jpg",
+      "rating": {
+        "average": 4.2,
+        "total_ratings": 21
+      },
+      "quantity": 34,
+      "category": ["shirt", "cotton"]
+    },
+    {
+      "name": "Full Sleeve Shirt",
+      "price": 400,
+      "image": "https://5.imimg.com/data5/MV/KM/MY-22920466/cotton-mens-wear-regular-shirt-500x500.jpg",
+      "rating": {
+        "average": 4.4,
+        "total_ratings": 3
+      },
+      "quantity": 4,
+      "category": ["shirt", "cotton"]
+    },
+    {
+      "name": "T-Shirt",
+      "price": 250,
+      "image": "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9088.png",
+      "rating": {
+        "average": 2,
+        "total_ratings": 2
+      },
+      "quantity": 54,
+      "category": ["shirt"]
+    },
+    {
+      "name": "Sweater",
+      "price": 800,
+      "image": "https://www.asket.com/imgproxy/e:1/width:1250/resize:fit/quality:80/plain/https://asket.centracdn.net/client/dynamic/images/76_a1aa547724-asket_rcs_light_grey_slide_02-original.jpg@jpg",
+      "rating": {
+        "average": 3,
+        "total_ratings": 23
+      },
+      "quantity": 8,
+      "category": ["winter", "cloth"]
+    },
+    {
+      "name": "Hoody",
+      "price": 500,
+      "image": "https://cdn2.dynafit.com/media/image/76/60/aa/3b919a85-b001-4703-aaf1-f620aab93a70_dynafit.jpg",
+      "rating": {
+        "average": 2,
+        "total_ratings": 1
+      },
+      "quantity": 44,
+      "category": ["winter", "cloth"]
+    },
+    {
+      "name": "Jeans",
+      "price": 330,
+      "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F40%2Fcf%2F40cf42a76cf1f0ee44baa98d75acc836ef9d85d5.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_jeans_slim%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "rating": {
+        "average": 4.6,
+        "total_ratings": 45
+      },
+      "quantity": 64,
+      "category": ["cloth", "jeans"]
+    },
+    {
+      "name": "Shoe",
+      "price": 220,
+      "image": "https://blog.technavio.com/wp-content/uploads/2018/10/shoe-companies.jpg",
+      "rating": {
+        "average": 5,
+        "total_ratings": 1
+      },
+      "quantity": 5,
+      "category": ["footware"]
+    }
+  ]
+}
