@@ -11,6 +11,13 @@ Create a shop API with NestJS that would contain the basic boilerplate and struc
 - TypeScript
 - MongoDB
 
+## How to Start the Server?
+
+- Clone this repo using `git clone`
+- Move into the cloned directory `cd nestjs-shop`
+- Install all the dependencies `npm i` or `npm install`
+- Serve by `npm run start`
+
 ## TODO - API Endpoints
 
 - [ ] Get All Products
